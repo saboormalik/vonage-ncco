@@ -1,0 +1,12 @@
+[
+  {
+    "action": "connect",
+    "from": "+13024164007",
+    "endpoint": [
+      {
+        "type": "sip",
+        "uri": "sip:13024164007@cocotots-info.sip.vonage.com"
+      }
+    ]
+  }
+]
