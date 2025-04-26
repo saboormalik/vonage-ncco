@@ -5,7 +5,7 @@
     "endpoint": [
       {
         "type": "sip",
-        "uri": "sip:13024164007@cocotots-info.sip.vonage.com"
+        "uri": "sip:cocotots-info.sip.vonage.com"
       }
     ]
   }
